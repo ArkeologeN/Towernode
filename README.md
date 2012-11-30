@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tower.js
 
 Thanks for installing Tower and using it to build an application! You can read this file for more information on how to get started. You can also read the website we've made: http://towerjs.org. There are also plenty of screencasts here: http://towerjs.org/screencast.
@@ -58,3 +59,9 @@ Read up on [testing Tower.js apps](http://towerjs.org/guides/testing).
 - [Stylus](http://learnboost.github.com/stylus/)
 
 If all else fails, see the [Rails Guides](http://guides.rubyonrails.org/), should be fairly close.
+=======
+Towernode
+=========
+
+TowerJS &amp; NodeJS based full stack application (preview)
+>>>>>>> 54ddeccf5dc34f23817720f890002ade19bbba38
